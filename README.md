@@ -5,5 +5,9 @@ It's built with Windows in mind so I can't guarantee it will work on other Opera
 
 # Build
 
-* Clone repo on Pycharm  :^)
-* It requires `psutil` as a dependency and `tkinter` but the later should come with Python by default...
+* Clone repository
+* Run main.py
+
+# Dependencies
+* It requires `psutil` as a dependency
+* It also requires `tkinter` but the later should come with Python by default...
