@@ -1,5 +1,5 @@
 # BatteryProject
-A python learning project using Tkinter on Pycharm.
+A python learning project using Tkinter.
 It's built with Windows in mind so I can't guarantee it will work on other Operating Systems, but it should in theory...
 
 
